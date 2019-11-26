@@ -5,7 +5,7 @@ public class ProbabilisticSearch {
 
     /**
      * 
-     * Binary Search aus der Vorlesung leicht abgewandelt
+     * Binary Search 
      * 
      */
 
